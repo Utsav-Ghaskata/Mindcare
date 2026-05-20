@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
+
+.streamlit/secrets.toml
+
+# Local runtime logs and generated outputs
+*.log
+outputs/
+
+# Runtime/user-generated app data
+*.db
+history_images/
+MindCare_All_Data/
+mindcare_all_saved_data.json
+mindcare_all_saved_data.txt
